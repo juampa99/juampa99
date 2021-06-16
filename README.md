@@ -4,8 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=juampa99&color=red&style=flat">
 </p>
 
-- 💻️ I’m currently working with **Kotlin and Java**
-- 🌱 I'm currently learning **Kotlin and Scala**
+- 💻️ I’m currently working on **Spigot** plugins written on **Kotlin**
+- 🌱 I'm currently learning <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"/> **Kotlin**, **Scala** and <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/> Python
 
 ### ⚙️ &nbsp;Stats
 
@@ -20,18 +20,3 @@
 <a href="mailto:juanpabloallende2020@gmail.com"><img src="https://img.shields.io/badge/juanpabloallende2020@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juampa99&" alt="juampa99" /></p>
-
-<!--
-**juampa99/juampa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
