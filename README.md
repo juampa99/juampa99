@@ -4,9 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=juampa99&color=red&style=flat">
 </p>
 
-- 💻️ I’m currently working on **Spigot** plugins written on **Kotlin**
+- 💻️ I’m working on **Spigot** plugins written on **Kotlin**
 - 🌱 I'm currently learning <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"/> **Kotlin**, **Scala** and <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/> Python
-- 📕️ I'm currently studying at Universidad Nacional de Cordoba for my Bachelor's in Computer Science
+- 📕️ I'm currently studying at Universidad Nacional de Cordoba for my Bachelor's in Computer Science (on my 3rd year)
 
 ### ⚙️ &nbsp;Stats
 
