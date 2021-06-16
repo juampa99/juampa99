@@ -7,7 +7,7 @@
 - 💻️ I’m currently working with **Kotlin and Java**
 - 🌱 I'm currently learning **Kotlin and Scala**
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Stats
 
 <p align="center">
 <a href="https://github.com/juampa99">
@@ -16,7 +16,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contact me
 <a href="mailto:juanpabloallende2020@gmail.com"><img src="https://img.shields.io/badge/juanpabloallende2020@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juampa99&" alt="juampa99" /></p>
