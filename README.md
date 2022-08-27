@@ -4,10 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=juampa99&color=red&style=flat">
 </p>
 
-- 💻️ I’m working on <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"/> **Unity**
-- 🌱 I'm currently learning back-end web development with <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"/> **Kotlin** + **Spring** <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
-- 📕️ I'm currently studying at Universidad Nacional de Cordoba for my Bachelor's in Computer Science (on my 3rd year)
-
 ### ⚙️ &nbsp;Stats
 
 <p align="center">
